@@ -190,7 +190,7 @@ a {
   margin-right: 15px;
   justify-content: center;
   align-self: center;
-  background-image: url('/img/Search.svg');
+  background-image: url('./img/Search.svg');
   background-color: #fff;
   background-position: center;
   background-repeat: no-repeat;
@@ -299,7 +299,7 @@ a {
   margin-left: 8px;
   width: 16px;
   height: 16px;
-  background-image: url("/img/i-tul.svg");
+  background-image: url("./img/i-tul.svg");
   background-size: contain;
   background-repeat: no-repeat;
   transform: translateY(3px);
@@ -318,7 +318,7 @@ a {
 .about-img {
   padding-top:446px;
   height: auto;
-  background-image: url(/img/Rectangle2.jpg);
+  background-image: url(./img/Rectangle2.jpg);
   background-size: cover;
 
 }
